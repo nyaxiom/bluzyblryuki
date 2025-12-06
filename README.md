@@ -4,4 +4,4 @@ dataset used: https://drive.google.com/drive/folders/1FFxtU7fNnPqAxlzWlzKdKGw463
 
 extract a zip file into the same directory with .ipynb files
 
-create an "images" folder and put your test images 
+create an "images" directory and put your test images inside 
